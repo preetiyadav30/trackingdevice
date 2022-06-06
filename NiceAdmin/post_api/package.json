@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.1",
+    "mongoclient": "^1.0.3",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.5",
+    "pm2": "^5.2.0"
+  }
+}
